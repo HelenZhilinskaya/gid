@@ -3,7 +3,7 @@ body{
 }
 
 .navbar{
-   padding: 1em 0;
+   padding: 2em 0;
 
 }
 .navbar-brand {
@@ -114,11 +114,13 @@ blockquote{
 
 
 video{
-
-   width:100%;
+   z-index:-1;
+   width:80%;
    min-height:100%;
    overflow:hidden;
-    z-index: -1000;
 
 }
 
+.thumbnail {
+    display: inline-block
+}
