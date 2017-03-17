@@ -45,11 +45,11 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    height: 600px
+    height: 500px
 }
 
 .banner .container-fluid{
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.5);
     color: #eee;
     height: 500px
 }
