@@ -85,7 +85,7 @@ a{
 }
 
 .mx-auto{
-    margin: 0 auto
+    margin: 3em auto
 }
 
 
@@ -123,4 +123,26 @@ video{
 
 .thumbnail {
     display: inline-block
+}
+.services{
+    background: url(../images/wat.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.services .row{
+    max-width: 80em
+}
+
+.btn-primary{
+        color: #fff;
+    background-color: transparent;
+    border-color: #eee;
+}
+
+
+.thumbnail .caption{
+    background: #0088cc;
+    color: #eee;
 }
