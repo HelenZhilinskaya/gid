@@ -2,11 +2,12 @@ body{
     color: #555
 }
 
-h2{
+.banner h2{
 background: rgb(1, 136, 204);
     font-size:28px;
     max-width: 18em;
     text-align: center;
+    color:#eee
 }
     
 
