@@ -49,14 +49,14 @@ a{
 .banner{
     background: url(../images/ban2.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     height: 500px;
     background-position: center center;
 }
 
 .banner .container-fluid{
-    color:  color: #0188cc;
+    color: #0188cc;
     height: 500px
 }
 
