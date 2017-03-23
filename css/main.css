@@ -51,10 +51,7 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
-    background-attachment: fixed;
-    background-position: bottom center;
-    margin-bottom: 2em;
-}
+
 
 .banner .container-fluid{
     color: #0188cc;
