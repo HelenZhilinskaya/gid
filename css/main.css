@@ -157,3 +157,7 @@ video{
     min-height: 130px;
     text-align: center
 }
+
+.bur{
+    line-height: 50px;
+}
