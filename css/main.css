@@ -3,7 +3,7 @@ body{
 }
 
 .banner h2{
-    margin-top: 1.5em;
+    margin-top: 3.5em;
     font-size:28px;
     max-width: 18em;
     text-align: center;
@@ -50,7 +50,7 @@ a{
     background: url(../images/ban3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 650px;
 }
 
 .banner .container-fluid{
