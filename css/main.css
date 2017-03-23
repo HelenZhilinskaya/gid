@@ -3,7 +3,7 @@ body{
 }
 
 .banner h2{
-    margin-top: 1.5em;
+    margin-top: 2em;
     font-size:28px;
     max-width: 18em;
     text-align: center;
@@ -154,4 +154,6 @@ video{
 .thumbnail .caption{
     background: #0088cc;
     color: #eee;
+    min-height: 130px;
+    text-align: center
 }
