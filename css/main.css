@@ -52,7 +52,7 @@ a{
     background-size: cover;
     height: 500px;
     background-attachment: fixed;
-    background-position: 50% 60%;
+    background-position: bottom center;
     margin-bottom: 2em;
 }
 
