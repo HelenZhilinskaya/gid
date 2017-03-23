@@ -3,7 +3,7 @@ body{
 }
 
 .banner h2{
-    margin-top: 3.5em;
+    margin-top: 1.5em;
     font-size:28px;
     max-width: 18em;
     text-align: center;
@@ -47,8 +47,10 @@ a{
 }
 
 .banner{
-    background: url(../images/ban3.jpg);
+    background: url(../images/111.jpg);
     background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment:fixed;
     background-size: cover;
     height: 650px;
 }
