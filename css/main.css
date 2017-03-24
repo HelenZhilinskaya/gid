@@ -144,7 +144,7 @@ video{
     max-width: 80em
 }
 
-.btn-primary{
+.banner .btn-primary{
         color: #0188cc;
     background-color: transparent;
     border-color: #0188cc;
