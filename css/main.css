@@ -59,18 +59,17 @@ a{
     height: 500px;
 }
 .banner{
-  background:#ec6a38;
   -webkit-animation:colour 10s linear infinite;
 	-moz-animation:colour 10s linear infinite;
   
 }
 @-webkit-keyframes colour{
 	0%{
-		background:url(../images/111.jpg)
+		background:url(../images/111.jpg) no-repeat
 	}
 
 	50%{
-		background:url(../images/ban2.png)
+		background:url(../images/ban2.png) no-repeat
 	}
 
 }
