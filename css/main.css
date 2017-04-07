@@ -47,7 +47,6 @@ a{
 }
 
 .banner{
-    background: url(../images/111.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment:fixed;
@@ -58,6 +57,33 @@ a{
 .banner .container-fluid{
     color: #0188cc;
     height: 500px;
+}
+.banner{
+  background:#ec6a38;
+  -webkit-animation:colour 10s linear infinite;
+	-moz-animation:colour 10s linear infinite;
+  
+}
+@-webkit-keyframes colour{
+	0%{
+		background:url(../images/111.jpg)
+	}
+
+	50%{
+		background:url(../images/ban2.png)
+	}
+
+}
+
+@-moz-keyframes colour{
+	0%{
+		background:url(../images/111.jpg)
+	}
+
+	50%{
+		background:url(../images/ban2.png)
+	}
+
 }
 
 .primary{
