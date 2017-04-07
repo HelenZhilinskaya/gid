@@ -65,22 +65,34 @@ a{
 }
 @-webkit-keyframes colour{
 	0%{
-		background:url(../images/111.jpg) no-repeat
+		background:url(../images/111.jpg) no-repeat;
+		 background-position: top center;
+    background-attachment:fixed;
+    background-size: cover;
 	}
 
 	50%{
-		background:url(../images/ban2.png) no-repeat
+		background:url(../images/ban2.png) no-repeat;
+		 background-position: top center;
+    background-attachment:fixed;
+    background-size: cover;
 	}
 
 }
 
 @-moz-keyframes colour{
 	0%{
-		background:url(../images/111.jpg) no-repeat
+		background:url(../images/111.jpg) no-repeat;
+		 background-position: top center;
+    background-attachment:fixed;
+    background-size: cover;
 	}
 
 	50%{
-		background:url(../images/ban2.png) no-repeat
+		background:url(../images/ban2.png) no-repeat;
+		 background-position: top center;
+    background-attachment:fixed;
+    background-size: cover;
 	}
 
 }
