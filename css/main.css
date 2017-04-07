@@ -58,40 +58,7 @@ a{
     color: #0188cc;
     height: 500px;
 }
-.banner{
-  -webkit-animation:colour 10s linear infinite;
-	-moz-animation:colour 10s linear infinite;
-  
-}
-@-webkit-keyframes colour{
-	0%{
-		background:url(../images/111.jpg) no-repeat;
-		 background-position: top center;
-    background-attachment:fixed;
-    background-size: cover;
-	}
 
-	100%{
-		background:url(../images/ban2.png) no-repeat;
-		 background-position: left center;
-	}
-
-}
-
-@-moz-keyframes colour{
-	0%{
-		background:url(../images/111.jpg) no-repeat;
-		 background-position: top center;
-    background-attachment:fixed;
-    background-size: cover;
-	}
-
-	100%{
-		background:url(../images/ban2.png) no-repeat;
-	 background-position: left center;
-	}
-
-}
 
 .primary{
     color: #333
